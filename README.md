@@ -9,3 +9,8 @@ This repository lays out a detailed example code to use the GTSAM Library, used 
 The author adheres to the Honour Code and have commented all the steps in the code for the reader's understanding of algorithm and the code.
 
 Thank-you.
+
+
+Pre-requisites
+1. Install GTSAM in Python using pip install gtsam
+2. For plotting install Matplotlib using pip install matplotlib
