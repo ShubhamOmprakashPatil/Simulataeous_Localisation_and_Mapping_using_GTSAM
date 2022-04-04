@@ -1,0 +1,16 @@
+Links explaining different steps
+
+1.	How is data stored in the G2O files
+
+https://github.com/RainerKuemmerle/g2o/wiki/File-Format-SLAM-2D
+
+2.	Python file examples for GTSAM
+
+https://github.com/borglab/gtsam/blob/develop/python/gtsam/examples/Pose2SLAMExample.py
+
+3.	GTSAM documentation
+
+https://gtsam.org/doxygen/4.0.0/a03871.html
+
+
+
